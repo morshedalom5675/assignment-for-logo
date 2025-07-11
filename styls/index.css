@@ -10,7 +10,7 @@
     margin: 50px;
 }
 
-  div h2{
+  .logo h2{
   width: 99px;
   height: 51px;
   color: #4E47FF;
@@ -103,4 +103,49 @@ div button{
    width: 160px;
    height: 24px;
 }
+.user-say{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    text-align: center;
+}
 
+.viewer{
+    display: flex;
+    gap: 10px;
+    
+}
+.reviewer-card{
+     width: 600px;
+     height: 200px;
+     padding: 20px;
+     background-color: #FFFFFF;
+     border: 1px solid #252432;
+     box-shadow: 5px;
+     border-radius: 10px;
+}
+    
+.full-revieo{
+    display: flex;
+    margin: 150px;
+    gap: 15px;
+}
+.focus{
+    text-align: center;
+    justify-content: center;
+    background-color: #FFFFFF;
+    margin: 137px 150px;
+    
+}
+.focus h1{
+    padding-top: 40px;
+    font-size: 50px;
+    font-weight: bold;
+    color: #000;
+    
+}
+.focus img{
+    width: 800px;
+    height: 365px;
+    border-radius: 30px;
+}
