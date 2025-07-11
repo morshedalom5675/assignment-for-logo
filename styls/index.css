@@ -1,0 +1,70 @@
+
+
+.background-image{
+
+    background-image: url('../Hero-bg.png');
+}
+.logo{
+    display: flex;
+    justify-content:space-between;
+    margin: 50px;
+}
+
+  div h2{
+  width: 99px;
+  height: 51px;
+  color: #4E47FF;
+  font-size: 35px;
+}
+div button{
+    height: 40px;
+    width: 130px;
+   font-size: 15px;
+    margin: 30px;
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    border-radius: 5px;
+    border: none;
+}
+.cool{
+    text-align: center;
+    justify-content: center;
+}
+.cool h1{
+    font-size: 65px;
+    font-weight: bold;
+    color: #252432;
+}
+
+.action{ 
+    display: flex;
+    justify-content: space-between;
+    margin-top:  200px ;
+}
+.see h1{
+    font-size: 48px;
+    font-weight: bold;
+    color: #252432;
+    
+}
+.see p{
+    width: 517px;
+    height: 20px;
+    color: #252432;
+}
+.see{
+    width: 517px;
+    height: 203px;
+    margin-left: 140px;
+   
+}
+.action img{
+    width: 403px;
+    height: 328px;
+    margin-right: 150px;
+    border-radius: 48px;
+}
+.see button{
+    width: 200px;
+    border-radius: 10px;
+}
