@@ -68,3 +68,38 @@ div button{
     width: 200px;
     border-radius: 10px;
 }
+.about{
+    text-align: center;
+    width: 1000px;
+    height: 306px;
+    justify-content: center;
+    margin: 150px 120px;
+    background-color: #cac9e8;
+    padding-top: 30px;
+    border-radius: 15px;
+}
+.display{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 90px;
+
+}
+.about h2{
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+}
+.about-title{
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: 3px;
+    
+    
+}
+.description-about{
+   line-height: 0%;
+   width: 160px;
+   height: 24px;
+}
+
