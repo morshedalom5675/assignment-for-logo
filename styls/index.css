@@ -25,7 +25,10 @@ div button{
     background-color: #4E47FF;
     border-radius: 5px;
     border: none;
+    text-decoration: none;
+    
 }
+
 .cool{
     text-align: center;
     justify-content: center;
@@ -185,4 +188,26 @@ textarea{
 }
 .touch{
     width: 90%;
+}
+.footer{
+    justify-content: center;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+   position: absolute;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 50px;
+    border: 1px solid #00000050;
+    
+}
+.footer h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #4E47FF;
+}
+.footer a{
+    margin: 15px;
+    text-decoration: none;
+    color: #000;
 }
